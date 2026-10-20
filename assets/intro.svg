@@ -25,9 +25,7 @@
 
   <g font-family="monospace" font-size="15">
     <text x="28" y="82" fill="#a78bfa">$ whoami</text>
-    <text x="28" y="111" fill="#f3f4f6" font-size="23" font-weight="bold">
-      heychandur
-    </text>
+     <text x="28" y="111" ...>heychandur</text>
     <text x="28" y="137" fill="#9ca3af">
       Electronics and Communication Engineer
     </text>
