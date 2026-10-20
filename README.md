@@ -1,5 +1,6 @@
+
 <p align="center">
   <img src="./assets/intro.svg"
-       alt="Chandu R — terminal introduction"
+       alt="heychandur — Electronics and Communication Engineer"
        width="100%" />
 </p>
