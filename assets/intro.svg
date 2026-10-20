@@ -1,10 +1,6 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="heychandur terminal introduction">
   <defs>
-    <linearGradient id="ti-stage" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#1a1238"/>
-      <stop offset="1" stop-color="#0d0820"/>
-    </linearGradient>
     <filter id="ti-shadow" x="-10%" y="-10%" width="120%" height="130%">
       <feGaussianBlur in="SourceAlpha" stdDeviation="22"/>
       <feOffset dy="14"/>
@@ -17,8 +13,6 @@
       </feMerge>
     </filter>
   </defs>
-
-  <rect width="1200" height="420" fill="url(#ti-stage)"/>
 
   <g filter="url(#ti-shadow)">
     <rect x="80" y="40" width="1040" height="340" rx="14" fill="#11131c"/>
